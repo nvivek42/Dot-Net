@@ -1,0 +1,14 @@
+D:\dot net\codes\asyncAwait\bin\Debug\net8.0\asyncAwait.exe
+D:\dot net\codes\asyncAwait\bin\Debug\net8.0\asyncAwait.deps.json
+D:\dot net\codes\asyncAwait\bin\Debug\net8.0\asyncAwait.runtimeconfig.json
+D:\dot net\codes\asyncAwait\bin\Debug\net8.0\asyncAwait.dll
+D:\dot net\codes\asyncAwait\bin\Debug\net8.0\asyncAwait.pdb
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.AssemblyInfoInputs.cache
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.AssemblyInfo.cs
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.csproj.CoreCompileInputs.cache
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.dll
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\refint\asyncAwait.dll
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.pdb
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\asyncAwait.genruntimeconfig.cache
+D:\dot net\codes\asyncAwait\obj\Debug\net8.0\ref\asyncAwait.dll
