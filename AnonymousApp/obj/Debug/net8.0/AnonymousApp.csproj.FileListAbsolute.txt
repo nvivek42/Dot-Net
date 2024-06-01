@@ -1,0 +1,14 @@
+D:\dot net\codes\AnonymousApp\bin\Debug\net8.0\AnonymousApp.exe
+D:\dot net\codes\AnonymousApp\bin\Debug\net8.0\AnonymousApp.deps.json
+D:\dot net\codes\AnonymousApp\bin\Debug\net8.0\AnonymousApp.runtimeconfig.json
+D:\dot net\codes\AnonymousApp\bin\Debug\net8.0\AnonymousApp.dll
+D:\dot net\codes\AnonymousApp\bin\Debug\net8.0\AnonymousApp.pdb
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.AssemblyInfoInputs.cache
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.AssemblyInfo.cs
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.csproj.CoreCompileInputs.cache
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.dll
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\refint\AnonymousApp.dll
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.pdb
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\AnonymousApp.genruntimeconfig.cache
+D:\dot net\codes\AnonymousApp\obj\Debug\net8.0\ref\AnonymousApp.dll
