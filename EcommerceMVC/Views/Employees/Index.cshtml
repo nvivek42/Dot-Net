@@ -4,3 +4,11 @@
 @{
 }
 <h1>Employees index</h1>
+
+@{
+    List<Employee> employees = (List<Employee>)ViewData["employees"];
+    foreach (var employee in employees)
+    {
+        <p>@employee.FirstName   </p>
+    }
+}

@@ -9,43 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce2
 build_property.RootNamespace = Ecommerce2
-build_property.ProjectDir = D:\dot net\codes\Ecommerce2\
+build_property.ProjectDir = D:\dot net\codes\EcommerceMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\dot net\codes\Ecommerce2
+build_property.MSBuildProjectDirectory = D:\dot net\codes\EcommerceMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/dot net/codes/Ecommerce2/Views/Employees/Index.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dot net/codes/EcommerceMVC/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/Home/Index.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/Home/Privacy.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/Shared/Error.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/_ViewImports.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/_ViewStart.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dot net/codes/Ecommerce2/Views/Shared/_Layout.cshtml]
+[D:/dot net/codes/EcommerceMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c9oqn0mhch

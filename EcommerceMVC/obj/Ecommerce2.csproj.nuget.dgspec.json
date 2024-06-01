@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dot net\\codes\\Ecommerce2\\Ecommerce2.csproj": {}
+    "D:\\dot net\\codes\\EcommerceMVC\\Ecommerce2.csproj": {}
   },
   "projects": {
-    "D:\\dot net\\codes\\Ecommerce2\\Ecommerce2.csproj": {
+    "D:\\dot net\\codes\\EcommerceMVC\\Ecommerce2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dot net\\codes\\Ecommerce2\\Ecommerce2.csproj",
+        "projectUniqueName": "D:\\dot net\\codes\\EcommerceMVC\\Ecommerce2.csproj",
         "projectName": "Ecommerce2",
-        "projectPath": "D:\\dot net\\codes\\Ecommerce2\\Ecommerce2.csproj",
+        "projectPath": "D:\\dot net\\codes\\EcommerceMVC\\Ecommerce2.csproj",
         "packagesPath": "C:\\Users\\Sidheshwar Narole\\.nuget\\packages\\",
-        "outputPath": "D:\\dot net\\codes\\Ecommerce2\\obj\\",
+        "outputPath": "D:\\dot net\\codes\\EcommerceMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sidheshwar Narole\\AppData\\Roaming\\NuGet\\NuGet.Config",
